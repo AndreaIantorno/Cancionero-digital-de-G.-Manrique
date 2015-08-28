@@ -1,0 +1,1644 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+
+<!-- El "Cancionero digital de Gómez Manrique", 
+     proyecto desarrollado por Andrea Iantorno (mail:andrea.iantorno@gmail.com - Google+:https://plus.google.com/u/0/+AndreaIantorno/about) -->  
+
+
+<!-- codificación TEI de las páginas de la 11 a la 44 del Cancionero de Gómez Manrique -->
+
+<?xml-stylesheet href="cGM_transform.xsl" type="text/xsl" ?>
+
+<TEI>
+     
+<?xml-model href="esquema_cancionero_manrique.xml" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+
+
+<teiHeader>
+ 
+<fileDesc>
+<titleStmt>
+<title>cancionero_gomez_manrique.xml</title>
+</titleStmt>
+
+<publicationStmt>
+<p> ????? </p>       
+</publicationStmt>
+
+<sourceDesc>
+<p> ????? </p>
+</sourceDesc>
+</fileDesc>
+    
+</teiHeader>
+   
+   
+   
+<text>   
+           
+<body>       
+  
+<!-- página 11 -->
+<div xml:id="MP3-2">
+    
+<lg n="1" type="octava" rhyme="abbacddc">
+     <l n="1"><hi rend="illuminated">P</hi>or quanto la <rhyme label="a">oçiosidad</rhyme>,</l>
+     <l n="2">amado muncho de <rhyme label="b">my</rhyme>,</l> 
+     <l n="3">es causa, según <rhyme label="b">oy</rhyme>,</l>
+     <l n="4">de pensar muncha <rhyme label="a">maldad</rhyme></l> 
+     <l n="5">e solo por <rhyme label="c">esquiuar</rhyme></l>
+     <l n="6">aquesto, <rhyme label="d">consideré</rhyme></l>
+     <l n="7">esta quistión que no <rhyme label="d">sé</rhyme></l>
+     <l n="8">por trobas vos <rhyme label="c">preguntar</rhyme>.</l>
+</lg>
+     
+<lg n="2" type="octava" rhyme="abbacddc">    
+     <l n="9">Pero porque mi <rhyme label="a">sentido</rhyme></l>
+     <l n="10">por amar es <rhyme label="b">trastorrnado</rhyme>,</l>
+     <l n="11">si algo viéredes <rhyme label="b">errado</rhyme>,</l>
+     <l n="12">sea por vos <rhyme label="a">corregido</rhyme>;</l>
+     <l n="13">que aquel que tanto <rhyme label="c">entiende</rhyme></l>
+     <l n="14">en est'arte como <rhyme label="d">vos</rhyme>,</l>
+     <l n="15">muy contento soy, par <rhyme label="d">Dios</rhyme>,</l>
+     <l n="16">que mis errores <rhyme label="c">emiende</rhyme>.</l>
+</lg>
+     
+<lg n="3" type="octava" rhyme="abbacddc"> 
+     <l n="17">Por más no <rhyme label="a">dilatar</rhyme>,</l>
+     <l n="18">temiendo fazer <rhyme label="b">errores</rhyme>,</l>
+     <l n="19">que los mis locos <rhyme label="b">amores</rhyme></l>
+     <l n="20">me fazen <rhyme label="a">desatentar</rhyme>,</l>
+     <l n="21">pregunto, pues <rhyme label="c">amador</rhyme></l>
+     <l n="22">soys, oviendo de <rhyme label="d">ser</rhyme>,</l>
+     <l n="23">¿quál es a vuestro <rhyme label="d">entender</rhyme></l>
+     <l n="24">d'estas cosas la <rhyme label="c">mejor</rhyme>:</l>
+</lg>
+     
+<!-- página 12 -->
+<pb xml:id="12r"/>     
+
+<lg n="4" type="octava" rhyme="abbacddc"> 
+     <l n="25">Syendo vos <rhyme label="a">enamorado</rhyme></l>
+     <l n="26">de dama muy <rhyme label="b">virtuosa</rhyme>,</l>
+     <l n="27">en estremidad <rhyme label="b">fermosa</rhyme>,</l>
+     <l n="28">por quien fuésedes <rhyme label="a">penado</rhyme>,</l>
+     <l n="29">fablarla sin <rhyme label="c">esperar</rhyme> </l>
+     <l n="30">de nunca jamás la <rhyme label="d">ver</rhyme>,</l>
+     <l n="31">o verla syn la <rhyme label="d">poder</rhyme></l>
+     <l n="32">en vuestra vida <rhyme label="c">fablar</rhyme>?</l>
+</lg>
+       
+<lg n="5" type="octava" rhyme="abbacddc">
+     <l n="33">Porque yo triste me <rhyme label="a">veo</rhyme></l>
+     <l n="34">en vna pena <rhyme label="b">comigo</rhyme>,</l>
+     <l n="35">d'estas quistiones que <rhyme label="b">digo</rhyme>,</l>
+     <l n="36">de vos saberlo <rhyme label="a">deseo</rhyme> ;</l>
+     <l n="37">por ende muncho vos <rhyme label="c">rruego</rhyme></l>
+     <l n="38">qu'esta graçia me <rhyme label="d">fagáys</rhyme>.</l>
+     <l n="39">que las presentes <rhyme label="d">leáys</rhyme></l>
+     <l n="40">e aya rrespuesta <rhyme label="c">luego</rhyme>.</l>
+</lg>
+       
+          <note place="inline"> Fyn </note>
+     
+<lg n="6" type="cuarteta" rhyme="abba">
+     <l n="41">Por arder en aquel <rhyme label="a">fuego</rhyme></l>
+     <l n="42">do veo que vos <rhyme label="b">quemáys</rhyme>,</l>
+     <l n="43">soy más triste que <rhyme label="b">pensáys</rhyme>,</l>
+     <l n="44">avnque callando lo <rhyme label="a">niego</rhyme>.</l>
+</lg>
+
+</div>
+
+<!-- MP3-3 página 13 -->
+<pb xml:id="13r"/>       
+     
+<div xml:id="MP3-3">    
+
+<opener> De Gómez Manrrique </opener>
+
+<head>
+Rrespuesta de Fran-<lb/>
+çisco Bocanegra
+</head> <!-- Al margen izquierdo -->
+
+<lg n="1" type="octava" rhyme="abbacddc">
+     <l n="1">     Dexistes muy gran <rhyme label="a">verdat</rhyme>,</l>
+     <l n="2">según, señor, <rhyme label="b">aprendí</rhyme>,</l>
+     <l n="3">mas pocas personas <rhyme label="b">vy</rhyme></l>
+     <l n="4">syn tener <rhyme label="a">neçessidad</rhyme>;</l>
+     <l n="5">que después que sope <rhyme label="c">amar</rhyme></l>
+     <l n="6">nunca vn rrato <rhyme label="d">rreposé</rhyme></l>
+     <l n="7">nin por oçio me <rhyme label="d">fallé</rhyme></l>
+     <l n="8">tocado de mal <rhyme label="c">pensar</rhyme>.</l>
+</lg>
+     
+<lg n="2" type="octava" rhyme="abbacddc">     
+     <l n="9">La culpa del <rhyme label="a">entendido</rhyme></l>
+     <l n="10">es amar syn ser <rhyme label="b">amado</rhyme>,</l>
+     <l n="11">e la pena, <rhyme label="b">desechado</rhyme></l>
+     <l n="12">porque non es <rhyme label="a">atreuido</rhyme>;</l>
+     <l n="13">pues el que no se <rhyme label="c">defiende</rhyme></l>
+     <l n="14">d'estos daños que son <rhyme label="d">dos</rhyme>,</l>
+     <l n="15">mal puede fablar sin <rhyme label="d">tos</rhyme>,</l>
+     <l n="16">cosa que se no <rhyme label="c">rremiende</rhyme>.</l>
+</lg>
+
+<lg n="3" type="octava" rhyme="abbacddc">
+     <l n="17">Yo rreçibo grand <rhyme label="a">pesar</rhyme> </l>
+     <l n="18">de todos vuestros <rhyme label="b">dolores</rhyme>,</l>
+     <l n="19">avnque sé que son <rhyme label="b">mayores</rhyme> </l>
+     <l n="20">los míos, por non <rhyme label="a">errar</rhyme>;</l>
+     <l n="21">esto dexando, <rhyme label="c">señor</rhyme>,</l>
+     <l n="22">a lo que queréys <rhyme label="d">saber</rhyme></l>
+     <l n="23">me plaze de <rhyme label="d">rresponder</rhyme></l>
+     <l n="24">como rudo <rhyme label="c">trobador</rhyme>.</l>
+</lg>
+
+<!-- página 14 -->
+<pb xml:id="14r"/>       
+     
+<lg n="4" type="octava" rhyme="abbacddc">
+     <l n="25">Sy amor contra mi <rhyme label="a">grado</rhyme></l>
+     <l n="26">me da vida <rhyme label="b">trabajosa</rhyme>,</l>
+     <l n="27">syn cobrar dama <rhyme label="b">graçiosa</rhyme></l>
+     <l n="28">de que'esté muncho <rhyme label="a">pagado</rhyme> ,</l>
+     <l n="29">yo más la quiero <rhyme label="c">mirar</rhyme>,</l>
+     <l n="30">qu'es causa de más <rhyme label="d">plazer</rhyme>,</l>
+     <l n="31">que fablarla syn <rhyme label="d">auer</rhyme></l>
+     <l n="32">su vista para <rhyme label="c">folgar</rhyme>.</l>
+</lg>               
+               
+<lg n="5" type="octava" rhyme="abbacddc">
+     <l n="33">Entre my mesmo <rhyme label="a">peleo</rhyme></l>
+     <l n="34">munchas vegadas <rhyme label="b">comigo</rhyme>,</l>
+     <l n="35">porque no tenéys <rhyme label="b">abrigo</rhyme></l>
+     <l n="36">qual vos cunple, según <rhyme label="a">creo</rhyme>;</l>
+     <l n="37">que si non estades <rhyme label="c">çiego</rhyme>,</l>
+     <l n="38">según vos, señor, <rhyme label="d">vsáys</rhyme>,</l>
+     <l n="39">voto a Dios que <rhyme label="d">deçendáys</rhyme></l>
+     <l n="40">mil damas de su <rhyme label="c">sosiego</rhyme>.</l>
+</lg>
+
+              <note place="inline"> Ffyn </note>
+
+<lg n="6" type="cuarteta" rhyme="abba">
+     <l n="41">Más de ueras que de <rhyme label="a">juego</rhyme></l>
+     <l n="42">con razon me <rhyme label="b">condenáys,</rhyme></l>
+     <l n="43">por la cuyta que <rhyme label="b">pasáys</rhyme>,</l>
+     <l n="44">de vuestra dama <rhyme label="a">rreniego</rhyme>.</l>
+</lg>
+
+</div>
+
+
+<!-- MP3-4 página 15-->
+<pb xml:id="15r"/> 
+
+<div xml:id="MP3-4">
+
+<opener> De Gómez Manrrique </opener>
+
+<head> Rrequerimiento </head> <!-- Al margen izquierdo -->
+
+<lg n="1" type="octava" rhyme="abbacdcd">
+     <l n="1">     La mi contraria <rhyme label="a">fortuna</rhyme></l>
+     <l n="2">que por mi mal me <rhyme label="b">mostró</rhyme></l>
+     <l n="3">a vos, dama por quien <rhyme label="b">yo</rhyme></l>
+     <l n="4">noche no duermo <rhyme label="a">ninguna</rhyme>,</l>
+     <l n="5">me fizo que, <rhyme label="c">desamando</rhyme></l>
+     <l n="6">a mí mesmo, vos <rhyme label="d">quisiesse</rhyme></l>
+     <l n="7">tanto que sienpre <rhyme label="c">penando</rhyme></l>
+     <l n="8">por vuestra causa <rhyme label="d">biuiese</rhyme>.</l>
+</lg>
+
+<lg n="2" type="octava" rhyme="abbacdcd">
+     <l n="9">Aquesta que <rhyme label="a">desordena</rhyme></l>
+     <l n="10">todo mi bien e <rhyme label="b">plazer</rhyme></l>
+     <l n="11">ordenó, por me <rhyme label="b">fazer</rhyme></l>
+     <l n="12">beuir con dolor e <rhyme label="a">pena</rhyme>,</l>
+     <l n="13">que dezirvos non <rhyme label="c">osase</rhyme></l>
+     <l n="14">el grand amor que vos <rhyme label="d">he</rhyme>,</l>
+     <l n="15">por que más pena <rhyme label="c">pasase</rhyme>,</l>
+     <l n="16">vos non sabiendo por <rhyme label="d">qué</rhyme>.</l>
+</lg>
+
+<lg n="3" type="octava" rhyme="abbacdcd">
+     <l n="17">Syn auer <rhyme label="a">sabiduría</rhyme></l>
+     <l n="18">vuestra merçed de mi <rhyme label="b">mal</rhyme>,</l>
+     <l n="19">sufro dolor tan <rhyme label="b">mortal</rhyme></l>
+     <l n="20">que si vos, señora <rhyme label="a">mia</rhyme>,</l>
+     <l n="21">no rremedáys sin <rhyme label="c">tardança</rhyme>,</l>
+     <l n="22">yo prestamente <rhyme label="d">morré</rhyme></l>
+     <l n="23">o, por mi poca <rhyme label="c">esperança</rhyme>,</l>
+     <l n="24">breue <rhyme label="d">desesperaré</rhyme>.</l>
+</lg>
+     
+<!-- página 16 -->
+<pb xml:id="16r"/> 
+     
+<lg n="4" type="octava" rhyme="abbacdcd">
+     <l n="25">Por ende, sy <rhyme label="a">sabidora</rhyme></l>
+     <l n="26">nunca fustes fast'<rhyme label="b">aquí</rhyme></l>
+     <l n="27">de mi mal, triste de <rhyme label="b">mí</rhyme>,</l>
+     <l n="28">sabeldo, mi bien, <rhyme label="a">agora</rhyme>,</l>
+     <l n="29">e sabed más otra <rhyme label="c">cosa</rhyme>,</l>
+     <l n="30">que luego que vos <rhyme label="d">miré</rhyme>,</l>
+     <l n="31">en vos ver tanto <rhyme label="c">fermosa</rhyme></l>
+     <l n="32">mi libertad c<rhyme label="d">atiué</rhyme>.</l>
+</lg>
+
+<lg n="5" type="octava" rhyme="abbacdcd">
+     <l n="33">Luego desamé mi <rhyme label="a">vida</rhyme></l>
+     <l n="34">por amar vuestra <rhyme label="b">figura</rhyme>,</l>
+     <l n="35">pues por ello mi <rhyme label="b">ventura</rhyme></l>
+     <l n="36">me da pena syn <rhyme label="a">medida</rhyme>,</l>
+     <l n="37">tanto que ya por mi <rhyme label="c">grado</rhyme></l>
+     <l n="38">bien querer vos no <rhyme label="d">querría</rhyme>,</l>
+     <l n="39">saluo que tengo <rhyme label="c">pensado</rhyme></l>
+     <l n="40">que non fazerlo <rhyme label="d">podría</rhyme>.</l>
+</lg>
+
+<lg n="6" type="octava" rhyme="abbacdcd">
+     <l n="41">Porque biuo en tal <rhyme label="a">manera</rhyme>,</l>
+     <l n="42">ya fuera de mi <rhyme label="b">poder</rhyme>,</l>
+     <l n="43">que firme deuéys <rhyme label="b">tener</rhyme>,</l>
+     <l n="44">que sienpre fasta que <rhyme label="a">muera</rhyme></l>
+     <l n="45">me conuerrná de <rhyme label="c">seruir</rhyme></l>
+     <l n="46">a vos, por quien soy <rhyme label="d">penado</rhyme>,</l>
+     <l n="47">syn atender <rhyme label="c">rreçebir</rhyme></l>
+     <l n="48">gualardón de lo <rhyme label="d">pasado</rhyme>.</l>
+</lg>
+            
+<!-- página 17 -->
+<pb xml:id="17r"/> 
+             
+               <note place="inline"> Ffyn </note>
+
+<lg n="7" type="cuarteta" rhyme="abab">
+     <l n="49">No puedo más <rhyme label="a">escreuir</rhyme></l>
+     <l n="50">porqu'el dolor e <rhyme label="b">cuydado</rhyme></l>
+     <l n="51">que vos me fazéys <rhyme label="a">sofrir</rhyme></l>
+     <l n="52">me tiene <rhyme label="b">desatentado</rhyme>.</l>
+</lg>
+
+</div>
+ 
+<!-- MP3-5-->
+     
+<div xml:id="MP3-5">  
+
+<opener> De Gómez Manrrique </opener>
+
+<head>
+A Juan de Maçuela<lb/> 
+que posaua en vn <lb/>
+monesterio
+</head> <!-- Al margen izquierdo -->
+
+<lg n="1" type="novena" rhyme="abbacddcd">
+     <l n="1">     Pues no falló quien se <rhyme label="a">duela</rhyme></l>
+     <l n="2">ni vos mesmo vos <rhyme label="b">dolés</rhyme></l>
+     <l n="3">del alma que <rhyme label="b">sostenés</rhyme>,</l>
+     <l n="4">amado Juan de <rhyme label="a">Maçuela</rhyme>,</l>
+     <l n="5">mouido con sano <rhyme label="c">zelo</rhyme>,</l>
+     <l n="6">vos rruego que no <rhyme label="d">queráys</rhyme></l>
+     <l n="7">posar en donde <rhyme label="d">posáys</rhyme>,</l>
+     <l n="8">si no, terrné gran <rhyme label="c">rreçelo</rhyme></l>
+     <l n="9">que mal rrecaudo <rhyme label="d"></rhyme>fagáys.</l>
+</lg>
+
+<!-- MP3-6 -->
+<add place="margin-left">
+Rrespuesta [de]<lb/>
+Maçuela
+</add> 
+ <!-- Al margen izquierdo -->    
+
+<lg n="2" type="novena" rhyme="abbacddcd">
+     <l n="10">No seáys vos la <rhyme label="a">candela</rhyme></l>    
+     <l n="11">que alunbra, como <rhyme label="b">sabés</rhyme>,</l>
+     <l n="12">a todos, pero <rhyme label="b">después</rhyme></l>  
+     <l n="13">quémase fasta la <rhyme label="a">tela</rhyme>,</l>
+     <l n="14">e quiera el Señor del <rhyme label="c">çielo</rhyme></l>    
+     <l n="15">que vos tal oy no <rhyme label="d">seáys</rhyme>,</l>
+     <l n="16">porque de lo que <rhyme label="d">pensáys</rhyme></l>     
+     <l n="17">que no me siento nin <rhyme label="c">duelo</rhyme>,</l>
+     <l n="18">en ello vos no <rhyme label="d">cayáys</rhyme>.</l>     
+</lg>
+
+<!--MP3-7 página 18-->
+<pb xml:id="18r"/> 
+     
+<add place="margin-left"> 
+Rreplicato
+</add>
+ <!-- Al margen izquierdo -->
+
+     
+<lg n="3" type="novena" rhyme="abbacddcd">            
+     <l n="19">     La que mis bienes <rhyme label="a">asuela</rhyme></l>
+     <l n="20">en verdad más a d'un <rhyme label="b">mes</rhyme>,</l>     
+     <l n="21">me paro tal que <rhyme label="b">sabrés</rhyme></l>
+     <l n="22">que mi sentido no <rhyme label="a">buela</rhyme>,</l>          
+     <l n="23">mas yo, yendo como <rhyme label="c">suelo</rhyme></l>          
+     <l n="24">a rrezar adond'<rhyme label="d">estáys</rhyme>,</l>
+     <l n="25">fallo vos que no <rhyme label="d">llegáys</rhyme></l>          
+     <l n="26">mala bes los pies al <rhyme label="c">suelo</rhyme>,</l>            
+     <l n="27">no sé de qué lo <rhyme label="d">tomáys</rhyme>.</l>
+</lg>
+
+<!-- MP3-8 -->
+<add place="margin-left">    
+Rrespuesta [de]<lb/> 
+Maçuela 
+</add>
+ <!-- Al margen izquierdo -->
+     
+<lg n="4" type="novena" rhyme="abbacddcd">         
+     <l n="28">Vn secreto vos <rhyme label="a">ençela</rhyme>,</l>                 
+     <l n="29">la que vos tanto <rhyme label="b">querés</rhyme>,</l>          
+     <l n="30">que fabla con otros <rhyme label="b">tres</rhyme>,</l>          
+     <l n="31">por esso no vos <rhyme label="a">consuela</rhyme>;</l>           
+     <l n="32">e si altamente <rhyme label="c">buelo</rhyme></l>           
+     <l n="33">allí donde me <rhyme label="d">falláys</rhyme>,</l>                
+     <l n="34">yo rrezo como <rhyme label="d">rrezáys</rhyme></l>              
+     <l n="35">e pesco con el <rhyme label="c">anzuelo</rhyme></l>               
+     <l n="36">mesmo con que vos <rhyme label="d">pescáys</rhyme>.</l>
+ </lg>
+
+<!-- MP3-9 -->
+<add place="margin-left"> 
+Replicato 
+</add>
+ <!-- Al margen izquierdo --> 
+     
+<lg n="5" type="novena" rhyme="abbacddcd">              
+     <l n="37">     Mi seso muncho <rhyme label="a">rreçela</rhyme></l>                      
+     <l n="38">de rreñir, mas pues <rhyme label="b">avés</rhyme></l>                    
+     <l n="39">voluntad, bien <rhyme label="b">fallarés</rhyme></l>                   
+     <l n="40">forma para vuestra <rhyme label="a">suela</rhyme>;</l>                
+     <l n="41">e dexando las del <rhyme label="c">velo</rhyme>,</l>               
+     <l n="42">con quien tanto <rhyme label="d">conversáys</rhyme>,</l>                      
+     <l n="43">digo que si m'<rhyme label="d">enseñáys</rhyme>,</l>                  
+     <l n="44">que leuare, de <rhyme label="c">rrebuelo</rhyme></l>                  
+     <l n="45">a quantas vos <rhyme label="d">leuantáys</rhyme>.</l>
+</lg>
+
+<!-- MP3-10 -->
+<pb xml:id="19r"/> 
+     
+<add place="margin-left"> 
+Rrespuesta
+</add>
+ <!-- Al margen izquierdo -->
+  
+<!-- página 19 -->  
+<lg n="6" type="novena" rhyme="abbacddcd">
+     <l n="46">     Quien nunca aprendió en <rhyme label="a">escuela</rhyme></l>
+     <l n="47">¿cómo se atreue a quien <rhyme label="b">es</rhyme></l>
+     <l n="48">muy prouado en qualquier <rhyme label="b">rres</rhyme>?</l>
+     <l n="49">Rreniego de mi <rhyme label="a">abuela</rhyme></l>
+     <l n="50">si esto deçís con <rhyme label="c">çelo</rhyme></l>
+     <l n="51">que de mí, señor, <rhyme label="d">tengáys</rhyme>;</l>
+     <l n="52">dezildo, ca non <rhyme label="d">entrays</rhyme></l>
+     <l n="53">tan de golpe en el <rhyme label="c">señuelo</rhyme></l>
+     <l n="54">por que miedo me <rhyme label="d">pongáys</rhyme>.</l>
+</lg>
+
+</div>  
+
+
+     
+<!-- MP3-11 -->
+
+<div xml:id="MP3-11">
+
+<opener> De Gómez Manrrique </opener>
+
+<head>
+Otra al mesmo Juan <lb/>
+de Maçuela <!-- Al margen izquierdo -->
+</head>     
+     
+<lg n="1" type="diezVersos" rhyme="abcabcdeed">
+     <l n="1">     Tyenpo muncho <rhyme label="a">malgastado</rhyme></l>
+     <l n="2">es el <rhyme label="b"></rhyme>que</l>
+     <l n="3">se gasta syn fazer <rhyme label="c">nada</rhyme>;</l>
+     <l n="4">por ende, mi muy <rhyme label="a">amado</rhyme>,</l>
+     <l n="5"><rhyme label="b">ordené</rhyme></l>
+     <l n="6">esta copla mal <rhyme label="c">fundada</rhyme>,</l>
+     <l n="7">por la qual, amigo <rhyme label="d">mío</rhyme>,</l>
+     <l n="8">vos rruego que <rhyme label="e">començemos</rhyme></l>
+     <l n="9">tal quistión con que <rhyme label="e">gastemos</rhyme></l>
+     <l n="10">el tienpo no tan <rhyme label="d">valdío</rhyme>.</l>
+</lg>
+
+<!--MP3-12 página 20-->
+<pb xml:id="20r"/> 
+     
+<add place="margin-left"> 
+Rrespuesta 
+</add>
+ <!-- Al margen izquierdo -->      
+     
+<lg n="2" type="diezVersos" rhyme="abcabcdeed">
+     <l n="11">     Vuestro rruego m'es <rhyme label="a">mandado</rhyme></l>
+     <l n="12">Pues que <rhyme label="b">sé</rhyme></l>
+     <l n="13">que mi obra vos <rhyme label="c">agrada</rhyme>,</l>
+     <l n="14">buena causa m'auéys <rhyme label="a">dado</rhyme>,</l>
+     <l n="15">por do <rhyme label="b">esté</rhyme></l>
+     <l n="16">no baldío en mi <rhyme label="c">posada</rhyme>,</l>
+     <l n="17">mas porque yo no <rhyme label="d">porfío</rhyme>,</l>
+     <l n="18">començad, que bien <rhyme label="e">terrnemos</rhyme></l>
+     <l n="19">tal manera como <rhyme label="e">demos</rhyme></l>
+     <l n="20">al açidia buen <rhyme label="d">desuío</rhyme>.</l>
+</lg>
+
+<!-- MP3-13 -->
+
+<add place="margin-left">
+Manrrique 
+</add>
+ <!-- Al margen izquierdo --> 
+
+<lg n="3" type="diezVersos" rhyme="abcabcdeed">
+     <l n="21">     Yo començaría de <rhyme label="a">grado</rhyme>,</l>
+     <l n="22">pero <rhyme label="b">he</rhyme></l>
+     <l n="23">temor de fazer <rhyme label="c">errada</rhyme>,</l>
+     <l n="24">e por esto e <rhyme label="a">dexado</rhyme></l>
+     <l n="25">e <rhyme label="b">dexare</rhyme>,</l>
+     <l n="26">esta obra <rhyme label="c">començada</rhyme></l>
+     <l n="27">por no fazer <rhyme label="d">desuarío</rhyme>,</l>
+     <l n="28">que mis dolores <rhyme label="e">estremos</rhyme></l>
+     <l n="29">an quebrantado los <rhyme label="e">rremos</rhyme></l>
+     <l n="30">de mi menguado <rhyme label="d">aluedrío</rhyme>.</l>
+</lg>
+
+<!--MP3-14 página 21 -->
+<pb xml:id="21r"/> 
+     
+<add place="margin-left"> 
+Rrespuesta
+</add>
+ <!-- Al margen izquierdo -->
+
+<lg n="4" type="diezVersos" rhyme="abcabcdeed">
+     <l n="31">     Vn fierro m'auéys <rhyme label="a">echado</rhyme></l>
+     <l n="32">al vn <rhyme label="b">pie</rhyme>,</l>
+     <l n="33">mi señor, d'esta <rhyme label="c">vegada</rhyme>,</l>
+     <l n="34">pues que por vos a <rhyme label="a">quedado</rhyme>;</l>
+     <l n="35"><rhyme label="b">plázeme</rhyme></l>
+     <l n="36">que acortemos la <rhyme label="c">jornada</rhyme>,</l>
+     <l n="37">que según yo tengo el <rhyme label="d">brío</rhyme>,</l>
+     <l n="38">bien será, señor, que <rhyme label="e">alçemos</rhyme></l>
+     <l n="39">este juego por qu'<rhyme label="e">estemos</rhyme></l>
+     <l n="40">en vn constante <rhyme label="d">amorío</rhyme>.</l>
+</lg>
+
+<!-- MP3-15 -->
+
+<add place="margin-left"> 
+Manrrique 
+</add>
+ <!-- Al margen izquierdo --> 
+
+<lg n="5" type="diezVersos" rhyme="abcabcdeed">
+     <l n="41">     Si contienda e <rhyme label="a">destoruado</rhyme></l>
+     <l n="42">e <rhyme label="b">procuré</rhyme></l>
+     <l n="43">paz en mi copla <rhyme label="c">pasada</rhyme>,</l>
+     <l n="44">podéys ser <rhyme label="a">çertificado</rhyme></l>
+     <l n="45">que no <rhyme label="b">fue</rhyme></l>
+     <l n="46">temiendo vuestra <rhyme label="c">torrnada</rhyme></l>
+     <l n="47">que según de mí <rhyme label="d">confío</rhyme>,</l>
+     <l n="48">vos e yo nos <rhyme label="e">averrnemos</rhyme></l>
+     <l n="49">e por que más nos <rhyme label="e">prouemos</rhyme>,</l>
+     <l n="50">catad que vos <rhyme label="d">desafío</rhyme>.</l>
+</lg>
+     
+</div>
+          
+
+
+<!-- MP3-16 página 22 -->
+<pb xml:id="22r"/> 
+
+
+<div xml:id="MP3-16">
+
+<opener> De Gómez Manrrique </opener>
+
+<head> Carta de amores </head> <!-- Al margen izquierdo -->
+
+<lg n="1" type="novena" rhyme="abbacdcdd">
+     <l n="1"><hi rend="illuminated">A</hi> ti, señora de <rhyme label="a">quien</rhyme>,</l>
+     <l n="2">como soy leal <rhyme label="b">amigo</rhyme></l>
+     <l n="3">―fuera mejor <rhyme label="b">enemigo</rhyme></l>
+     <l n="4">para mi salud e <rhyme label="a">bien</rhyme>―,</l>
+     <l n="5">fago saber por la <rhyme label="c">triste</rhyme></l>
+     <l n="6">e presente letra <rhyme label="d">mía</rhyme></l>
+     <l n="7">cómo, después que <rhyme label="c">partiste</rhyme></l>
+     <l n="8">de donde verte <rhyme label="d">solía</rhyme>,</l>
+     <l n="9">yo biuo sin <rhyme label="d">alegría</rhyme>.</l>
+</lg>
+
+<lg n="2" type="novena" rhyme="abbacdcdd">
+     <l n="10">Tanto que jamás me <rhyme label="a">vy</rhyme></l>
+     <l n="11">tan triste como me <rhyme label="b">veo</rhyme>,</l>
+     <l n="12">por causa del gran <rhyme label="b">deseo</rhyme></l>
+     <l n="13">que tengo de ver a <rhyme label="a">ty</rhyme>;</l>
+     <l n="14">que me das tantos <rhyme label="c">enojos</rhyme></l>
+     <l n="15">e tal dolor e <rhyme label="d">pesar</rhyme></l>
+     <l n="16">qu'el estilo de mis <rhyme label="c">ojos</rhyme></l>
+     <l n="17">es nunca jamas <rhyme label="d">çesar</rhyme></l>
+     <l n="18">de plañir e de <rhyme label="d">llorar</rhyme>.</l>
+</lg>
+
+<lg n="3" type="novena" rhyme="abbacdcdd">
+     <l n="19">La mayor <rhyme label="a">consolaçión</rhyme></l>
+     <l n="20">que de mis afanes <rhyme label="b">he</rhyme></l>
+     <l n="21">es gemir, mi bien, por <rhyme label="b">que</rhyme></l>
+     <l n="22">no atiendo <rhyme label="a">gualardón</rhyme></l>
+     <l n="23">de mis continos <rhyme label="c">dolores</rhyme></l>
+     <l n="24">por tu <rhyme label="d">desconoçimiento</rhyme>,</l>
+     <l n="25">e todos los <rhyme label="c">amadores</rhyme></l>
+     <l n="26">deuen tomar <rhyme label="d">escarmiento</rhyme></l>
+     <l n="27">mirando mi <rhyme label="d">perdimiento</rhyme>.</l>
+</lg>
+
+<!-- página23 -->
+<pb xml:id="23r"/> 
+     
+<lg n="4" type="novena" rhyme="abbacdcdd">
+     <l n="28">Por tanto rrequiero <rhyme label="a">aquí</rhyme></l>
+     <l n="29">a los que ledos <rhyme label="b">desean</rhyme></l>
+     <l n="30">ser, que leales no <rhyme label="b">sean</rhyme>,</l>
+     <l n="31">parando mientes a <rhyme label="a">mí</rhyme>,</l>
+     <l n="32">que sin atender <rhyme label="c">merçedes</rhyme></l>
+     <l n="33">de ti, de quien <rhyme label="d">quexaré</rhyme>,</l>
+     <l n="34">escriuo por las <rhyme label="c">paredes</rhyme></l>
+     <l n="35">por mote "Verdad e <rhyme label="d">fe",</rhyme></l>
+     <l n="36">la qual nunca <rhyme label="d">quebranté</rhyme>.</l>
+</lg>
+
+<lg n="5" type="novena" rhyme="abbacdcdd">
+     <l n="37">E agora qu'es <rhyme label="a">gastada</rhyme></l>
+     <l n="38">parte de mi <rhyme label="b">jouentud</rhyme></l>
+     <l n="39">e la más de mi <rhyme label="b">salud</rhyme>,</l>
+     <l n="40">que doy por mal <rhyme label="a">enpleada</rhyme>,</l>
+     <l n="41">muéstrasteme tan <rhyme label="c">esquiua</rhyme></l>
+     <l n="42">como al que más <rhyme label="d">estraño</rhyme>,</l>
+     <l n="43">pero ya en quanto <rhyme label="c">biua</rhyme>,</l>
+     <l n="44">avnque me fagas mas <rhyme label="d">daño</rhyme>,</l>
+     <l n="45">te seruir, syn <rhyme label="d">engaño</rhyme>.</l>
+</lg>
+
+<lg n="6" type="novena" rhyme="abbacdcdd">
+     <l n="46">Si te amo syn <rhyme label="a">medida</rhyme>,</l>
+     <l n="47">esto sabes tú, e <rhyme label="b">yo</rhyme>,</l>
+     <l n="48">e si por ti triste <rhyme label="b">só</rhyme></l>
+     <l n="49">doy por testigo mi <rhyme label="a">vida</rhyme></l>
+     <l n="50">que feneçe por <rhyme label="c">seruir</rhyme></l>
+     <l n="51">a ti, señora, que <rhyme label="d">quiero</rhyme></l>
+     <l n="52">tanto que puedo <rhyme label="c">dezir</rhyme></l>
+     <l n="53">que syn otra causa <rhyme label="d">muero</rhyme></l>
+     <l n="54">por amarte <rhyme label="d">verdadero</rhyme>.</l>
+</lg>
+
+<!-- página 24 -->
+<pb xml:id="24r"/> 
+     
+<lg n="7" type="novena" rhyme="abbacdcdd">
+     <l n="55">E por no me <rhyme label="a">detener</rhyme>,</l>
+     <l n="56">dando fin a la <rhyme label="b">presente</rhyme>,</l>
+     <l n="57">te suplico <rhyme label="b">solamente</rhyme></l>
+     <l n="58">que, pues al no puede <rhyme label="a">ser</rhyme>,</l>
+     <l n="59">esta letra triste <rhyme label="c">veas</rhyme>,</l>
+     <l n="60">que con gran dolor <rhyme label="d">escriuo</rhyme>,</l>
+     <l n="61">por que tú, señora, <rhyme label="c">creas</rhyme></l>
+     <l n="62">como por tu causa <rhyme label="d">biuo</rhyme></l>
+     <l n="63">con vn dolor muy <rhyme label="d">esquiuo</rhyme>.</l>
+</lg>
+     
+        <note place="inline"> Cançión por fyn </note>   
+        
+<lg n="8" type="cuarteta" rhyme="abba">
+     <l n="64">En tanto que biuo <rhyme label="a">fuere</rhyme></l>
+     <l n="65">d'esto puedes çierta <rhyme label="b">ser</rhyme>,</l>
+     <l n="66">que te tengo de <rhyme label="b">querer</rhyme></l>
+     <l n="67">e seruir quanto <rhyme label="a">pudiere</rhyme>.</l>
+</lg>
+
+<lg n="9" type="octava" rhyme="abbacddc">
+     <l n="68">E no por los <rhyme label="a">galardones</rhyme>,</l>
+     <l n="69">avnque tienes de mí <rhyme label="b">cargo</rhyme>,</l>
+     <l n="70">según escriuo más <rhyme label="b">largo</rhyme></l>
+     <l n="71">por estos tristes <rhyme label="a">rrenglones</rhyme>,</l>
+     <l n="72">mas porque mientra <rhyme label="c">biuiere</rhyme>,</l>
+     <l n="73">por mi verdad <rhyme label="d">mantener</rhyme>,</l>
+     <l n="74">te quiero sienpre <rhyme label="d">querer</rhyme></l>
+     <l n="75">e seruir quanto <rhyme label="c">pudiere</rhyme>.</l>
+</lg>
+
+</div>
+
+
+
+<!-- MP3-17- página 25 -->
+<pb xml:id="25r"/> 
+     
+<div xml:id="MP3-17">
+     
+              <opener> De Gómez Manrrique </opener>
+
+<head> En nombre de las virtudes que yuan momos al nasçimiento de vn sobrino suyo </head>
+     
+     
+<add place="margin-left"> 
+Justiçia 
+</add>
+ <!-- Al margen izquierdo -->
+
+<lg n="1" type="octava" rhyme="abbacdcd">
+     <l n="1">     <hi rend="illuminated">Y</hi>o te fago <rhyme label="a">justiçiero</rhyme>,</l>
+     <l n="2">mas que castigues sin <rhyme label="b">saña</rhyme>,</l>
+     <l n="3">porque biuas en <rhyme label="b">España</rhyme></l>
+     <l n="4">muy nonbrado <rhyme label="a">cauallero</rhyme></l>
+     <l n="5">e <rhyme label="c">parescas</rhyme></l>
+     <l n="6">a'quellos de donde <rhyme label="d">vienes</rhyme></l>
+     <l n="7">e por tu virtud <rhyme label="c">merezcas</rhyme></l>
+     <l n="8">alcançar muy grandes <rhyme label="d">bienes</rhyme>.</l>
+</lg>
+
+
+<add place="margin-left"> 
+Prudençia
+</add>
+ <!-- Al margen izquierdo -->
+     
+<lg n="2" type="octava" rhyme="ababcdcd"> 
+     <l n="9">     Yo te otorgo que <rhyme label="a">seas</rhyme></l>
+     <l n="10">sabio, discreto, <rhyme label="b">sentido</rhyme></l>
+     <l n="11">e más, que sienpre te <rhyme label="a">veas</rhyme></l>
+     <l n="12">de todo el mundo <rhyme label="b">querido</rhyme></l>
+     <l n="13">en tal <rhyme label="c">grado</rhyme></l>
+     <l n="14">que toda España se <rhyme label="d">rrija</rhyme></l>
+     <l n="15">por tu consejo e <rhyme label="c">mandado</rhyme></l>
+     <l n="16">e nadie non te <rhyme label="d">corrija</rhyme>.</l>
+</lg>
+     
+     
+<add place="margin-left">
+Tenprança 
+</add>
+  <!-- Al margen izquierdo -->
+
+<lg n="3" type="octava" rhyme="abbacdcd">
+     <l n="17">     Yo te fago muy <rhyme label="a">tenprado</rhyme></l>
+     <l n="18">e bueno de <rhyme label="b">conportar</rhyme>,</l>
+     <l n="19">e que no tomes <rhyme label="b">pesar</rhyme></l>
+     <l n="20">nin plazer <rhyme label="a">demasiado</rhyme>,</l>
+     <l n="21">que gran <rhyme label="c">tiento</rhyme></l>
+     <l n="22">es del que sabe <rhyme label="d">encobrir</rhyme></l>
+     <l n="23">todo pesar e <rhyme label="c">tormento</rhyme></l>
+     <l n="24">que le conuenga <rhyme label="d">sofrir</rhyme>.</l>
+</lg>
+
+
+<!-- página 26 -->
+<pb xml:id="26r"/> 
+     
+<add place="margin-left">
+Fortaleza 
+</add>
+  <!-- Al margen izquierdo -->
+
+<lg n="4" type="octava" rhyme="abbacdcd">
+     <l n="25">     Yo te do que seas tan <rhyme label="a">fuerte</rhyme>,</l>
+     <l n="26">esforçado syn <rhyme label="b">medida</rhyme>,</l>
+     <l n="27">e que no temas la <rhyme label="b">vida</rhyme></l>
+     <l n="28">por auer onrrada <rhyme label="a">muerte</rhyme>;</l>
+     <l n="29">otro <rhyme label="c">sy</rhyme></l>
+     <l n="30">que seas tan <rhyme label="d">venturoso</rhyme></l>
+     <l n="31">que quien fuere contra <rhyme label="c">ty</rhyme> </l>
+     <l n="32">sienpre biua <rhyme label="d">temeroso</rhyme>.</l>
+</lg>
+
+
+<add place="margin-left"> 
+Fe 
+</add>
+  <!-- Al margen izquierdo -->
+
+<lg n="5" type="octava" rhyme="abbacdcd">
+     <l n="33">     Fágo te mientra <rhyme label="a">biuieres</rhyme></l>
+     <l n="34">que seas sienpre <rhyme label="b">costante</rhyme></l>
+     <l n="35">e tu fe non se <rhyme label="b">quebrante</rhyme></l>
+     <l n="36">doquiera que la <rhyme label="a">pusieres</rhyme>;</l>
+     <l n="37">e <rhyme label="c">Serás</rhyme></l>
+     <l n="38">amador de <rhyme label="d">gentileza</rhyme></l>
+     <l n="39">e sienpre te <rhyme label="c">pagarás</rhyme></l>
+     <l n="40">de verdad e de <rhyme label="d">firmeza</rhyme>.</l>
+</lg>
+
+
+<add place="margin-left"> 
+Sperança 
+</add>
+   <!-- Al margen izquierdo -->
+
+<lg n="6" type="octava" rhyme="abbacdcd">
+     <l n="41">     Yo, la virtud de <rhyme label="a">sperança</rhyme>,</l>
+     <l n="42">seguiré tu <rhyme label="b">compañía</rhyme></l>
+     <l n="43">por que tengas <rhyme label="b">todavía</rhyme></l>
+     <l n="44">de bien aver <rhyme label="a">confiança</rhyme>,</l>
+     <l n="45">pues <rhyme label="c">Aquel</rhyme></l>
+     <l n="46">que te permitió <rhyme label="d">nacer</rhyme>,</l>
+     <l n="47">confiando tú en <rhyme label="c">Él</rhyme>,</l>
+     <l n="48">no te puede <rhyme label="d">fallecer</rhyme>.</l>
+</lg>
+     
+<!-- página 27 --> 
+<pb xml:id="27r"/> 
+     
+<add place="margin-left">
+Caridad 
+</add>
+  <!-- Al margen izquierdo -->
+
+<lg n="7" type="octava" rhyme="abbacdcd">
+     <l n="49">     Fágote <rhyme label="a">caritatiuo</rhyme>,</l>
+     <l n="50">a los buenos <rhyme label="b">amigable</rhyme>,</l>
+     <l n="51">e no persona te <rhyme label="b">fable</rhyme></l>
+     <l n="52">que te falle ser <rhyme label="a">esquiuo</rhyme>;</l>
+     <l n="53">qu'es <rhyme label="c">virtud</rhyme></l>
+     <l n="54">a quien todo el mundo <rhyme label="d">ama</rhyme></l>
+     <l n="55">e acreçienta <rhyme label="c">salud</rhyme></l>
+     <l n="56">e todos viçios <rhyme label="d">derrama</rhyme>.</l>
+</lg>
+
+</div>
+
+
+
+<!-- MP3-18 -->
+<div xml:id="MP3-18">
+
+<opener> De Gómez Manrrique </opener>
+
+<head> Pidiendo a Juan de Maçuela consuelo </head>
+
+<lg n="1" type="diezVersos" rhyme="abcabcdede">
+     <l n="1"><hi rend="illuminated">N</hi>unca esta noche <rhyme label="a">dormí</rhyme>,</l>
+     <l n="2"><rhyme label="b">contenplando</rhyme></l>
+     <l n="3">en el dolor muy <rhyme label="c">estremo</rhyme></l>
+     <l n="4">que sufro, triste de <rhyme label="a">mí</rhyme>,</l>
+     <l n="5">bien <rhyme label="b">amando</rhyme></l>
+     <l n="6">a quien de tal guisa <rhyme label="c">temo</rhyme></l>
+     <l n="7">que con mi daño me <rhyme label="d">plaze</rhyme></l>
+     <l n="8">por <rhyme label="e">saber</rhyme></l>
+     <l n="9">que de todo mi <rhyme label="d">plazer</rhyme></l>
+     <l n="10">le <rhyme label="e">desplaze</rhyme>.</l>
+</lg>
+  
+<!-- página 28 -->
+<pb xml:id="28r"/> 
+     
+<lg n="2" type="diezVersos" rhyme="abcabcdeed">
+     <l n="11">Lo qual yo bien <rhyme label="a">conoçiendo</rhyme>,</l>
+     <l n="12">dias <rhyme label="b">ha</rhyme></l>
+     <l n="13">que sufro tanto <rhyme label="c">tormento</rhyme></l>
+     <l n="14">que, según lo voy <rhyme label="a">sintiendo</rhyme>,</l>
+     <l n="15"><rhyme label="b">causara</rhyme></l>
+     <l n="16">mi tenprano <rhyme label="c">perdimiento</rhyme>;</l>
+     <l n="17">que no se puede <rhyme label="d">sofrir</rhyme></l>
+     <l n="18">sienpre <rhyme label="e">penar</rhyme>,</l>
+     <l n="19">quanto más sin <rhyme label="e">esperar</rhyme></l>
+     <l n="20">bien <rhyme label="d">rreçebir</rhyme>.</l>
+</lg>
+     
+<lg n="3" type="diezVersos" rhyme="abcabcdeed">
+     <l n="21">Así que por esta <rhyme label="a">vía</rhyme></l>
+     <l n="22">sienpre <rhyme label="b">so</rhyme></l>
+     <l n="23">en estremidad <rhyme label="c">penado</rhyme>;</l>
+     <l n="24">dígolo por que <rhyme label="a">querría</rhyme></l>
+     <l n="25">por vos <rhyme label="b">yo</rhyme></l>
+     <l n="26">ser, amigo, <rhyme label="c">consolado</rhyme>,</l>
+     <l n="27">pues sofristes o <rhyme label="d">sofrís</rhyme></l>
+     <l n="28">el tal <rhyme label="e">dolor</rhyme>,</l>
+     <l n="29">si tanto soys <rhyme label="e">amador</rhyme></l>
+     <l n="30">como <rhyme label="d">dezís</rhyme>.</l>
+</lg>
+     
+<note place="inline"> Ffyn </note>     
+      
+<lg n="4" type="cuarteta" rhyme="abba">
+     <l n="31">Pero pues tan bien <rhyme label="a">dormís</rhyme></l>
+     <l n="32">con <rhyme label="b">disfauor</rhyme>,</l>
+     <l n="33">yo tengo grande <rhyme label="b">temor</rhyme></l>
+     <l n="34">que lo <rhyme label="a">fengís</rhyme>.</l>
+</lg>
+
+<!-- MP3-19-página 29 -->  
+<pb xml:id="29r"/>      
+     
+<add place="margin-left">      
+Respuesta de Juan de <lb/>
+Maçuela 
+</add>
+ <!-- Al margen izquierdo -->
+
+<lg n="5" type="diezVersos" rhyme="abcabcdeed">
+     <l n="35">     Desque vuestras coplas <rhyme label="a">vy</rhyme></l>
+     <l n="36">vo <rhyme label="b">pensando</rhyme></l>
+     <l n="37">en el fuego que me <rhyme label="c">quemo</rhyme>,</l>
+     <l n="38">el qual yo nunca <rhyme label="a">sentí</rhyme></l>
+     <l n="39">tan <rhyme label="b">quemando</rhyme></l>
+     <l n="40">en grado tanto <rhyme label="c">supremo</rhyme></l>
+     <l n="41">como agora, que me <rhyme label="d">faze</rhyme></l>
+     <l n="42">no <rhyme label="e">poder</rhyme></l>
+     <l n="43">desuiarme de <rhyme label="e">caer</rhyme></l>
+     <l n="44">do me <rhyme label="d">enlaze</rhyme>.</l>
+</lg>
+
+<lg n="6" type="diezVersos" rhyme="abcabcdeed">
+     <l n="45">Pues de mí qu'estó <rhyme label="a">muriendo</rhyme>,</l>
+     <l n="46">¿que <rhyme label="b">será</rhyme>?</l>
+     <l n="47">que sufro males syn <rhyme label="c">cuento</rhyme>;</l>
+     <l n="48">consoladvos, que yo <rhyme label="a">entiendo</rhyme></l>
+     <l n="49">que <rhyme label="b">verrná</rhyme></l>
+     <l n="50">tienpo de <rhyme label="c">conoçimiento</rhyme>,</l>
+     <l n="51">que quien cura de <rhyme label="d">seruir</rhyme></l>
+     <l n="52">en buen <rhyme label="e">lugar</rhyme>,</l>
+     <l n="53">gualardón ha d'<rhyme label="e">alcançar</rhyme>,</l>
+     <l n="54">que no <rhyme label="d">morir</rhyme>.</l>
+</lg>
+    
+<!-- página 30 -->
+<pb xml:id="30r"/> 
+     
+<lg n="7" type="diezVersos" rhyme="abcabcdeed">
+     <l n="55">No dexéys vuestra <rhyme label="a">porfía</rhyme>,</l>
+     <l n="56">aquí <rhyme label="b">vo</rhyme>,</l>
+     <l n="57">que vos ser mal <rhyme label="c">contado</rhyme>,</l>
+     <l n="58">ca vos avrés <rhyme label="a">alegría</rhyme>;</l>
+     <l n="59">donde <rhyme label="b">no</rhyme>,</l>
+     <l n="60">no mostrés ningún <rhyme label="c">desgrado</rhyme>,</l>
+     <l n="61">que si d'esto <rhyme label="d">presumís</rhyme></l>
+     <l n="62">yo <rhyme label="e">fiador</rhyme></l>
+     <l n="63">que librés muncho <rhyme label="e">mejor</rhyme></l>
+     <l n="64">que lo <rhyme label="d">pedís</rhyme>.</l>
+</lg>
+     
+          <note place="inline"> Fyn </note> 
+
+<lg n="8" type="cuarteta" rhyme="abba">
+     <l n="65">Si esto no <rhyme label="a">encobrís</rhyme>,</l>
+     <l n="66">no ay, <rhyme label="b">señor</rhyme>,</l>
+     <l n="67">en vos señal de <rhyme label="b">amor</rhyme></l>
+     <l n="68">ni lo <rhyme label="a">sentís</rhyme>.</l>
+</lg>
+     
+     
+<!-- MP3-20 -->
+<add place="margin-left">  
+     Esparsa [de] <lb/>
+Gómez Manrrique    <lb/>  
+</add>
+ <!-- Al margen izquierdo -->   
+  
+<lg n="9" type="twelveLines" rhyme="abcabcdefdef">
+     <l n="69">     Vyéndovos tanto <rhyme label="a">penada</rhyme></l>
+     <l n="70">por lo que no <rhyme label="b">mereçes</rhyme>,</l>
+     <l n="71">viuo <rhyme label="c">yo</rhyme></l>
+     <l n="72">vida tanto <rhyme label="a">trabajada</rhyme></l>
+     <l n="73">que jamás nunca <rhyme label="b">después</rhyme></l>
+     <l n="74">que solo <rhyme label="c">só</rhyme></l>
+     <l n="75">cesan mis catiuos <rhyme label="d">ojos</rhyme></l>
+     <l n="76">de plañir e de <rhyme label="e">llorar</rhyme></l>
+     <l n="77">vuestro <rhyme label="f">tormento</rhyme>,</l>
+     <l n="78">de guisa que mis <rhyme label="d">enojos</rhyme>,</l>
+     <l n="79">syntiendo vuestro <rhyme label="e">pesar</rhyme>,</l>
+     <l n="80">no los <rhyme label="f">syento</rhyme>.</l>
+</lg>
+
+</div>
+     
+<!-- MP3-21-página 31 -->
+<pb xml:id="31r"/> 
+
+<div xml:id="MP3-21">
+
+<opener> De Gómez Manrrique </opener>
+
+<head> Apartamiento </head> <!-- Al margen izquierdo -->
+
+<lg n="1" type="octava" rhyme="abbacddc">
+     <l n="1">     <hi rend="illuminated">C</hi>on vuestra merçed <rhyme label="a">quedó</rhyme></l>
+     <l n="2">la mayor parte de <rhyme label="b">mí</rhyme>,</l>
+     <l n="3">e después que me <rhyme label="b">partí</rhyme></l>
+     <l n="4">nunca tomo plazer, <rhyme label="a">no</rhyme>;</l>
+     <l n="5">antes biuo tan <rhyme label="c">penado</rhyme></l>
+     <l n="6">que mi <rhyme label="d">vida</rhyme></l>
+     <l n="7">ser presto <rhyme label="d">feneçida</rhyme></l>
+     <l n="8">con <rhyme label="c">cuydado</rhyme>.</l>
+</lg>
+
+<lg n="2" type="octava" rhyme="abbacddc">
+     <l n="9">Con el cuydado que <rhyme label="a">siento</rhyme></l>
+     <l n="10">mi vida <rhyme label="b">feneçerá</rhyme>,</l>
+     <l n="11">la causa d'esto <rhyme label="b">será</rhyme></l>
+     <l n="12">el continuo <rhyme label="a">pensamiento</rhyme></l>
+     <l n="13">con que biuo, por <rhyme label="c">estar</rhyme></l>
+     <l n="14">lexos de <rhyme label="d">vos</rhyme>,</l>
+     <l n="15">señora, que fizo <rhyme label="d">Dios</rhyme></l>
+     <l n="16">tan <rhyme label="c">singular</rhyme>.</l>
+</lg>
+
+<lg n="3" type="octava" rhyme="abbacddc">
+     <l n="17">Tan singular en <rhyme label="a">belleza</rhyme></l>
+     <l n="18">por mi mal fustes <rhyme label="b">naçida</rhyme>,</l>
+     <l n="19">que tengo por vos p<rhyme label="b">erdida</rhyme></l>
+     <l n="20">mi libertad e <rhyme label="a">franqueza</rhyme>;</l>
+     <l n="21">e tanbién rrobó mi <rhyme label="c">fe</rhyme></l>
+     <l n="22">vuestro <rhyme label="d">mirar</rhyme>,</l>
+     <l n="23">la qual sienpre por <rhyme label="d">guardar</rhyme></l>
+     <l n="24">yo <rhyme label="c">trabajé</rhyme>.</l>
+</lg>
+
+<!-- página 32 -->
+<pb xml:id="32r"/> 
+     
+<note place="inline"> Ffyn </note>      
+
+<lg n="4" type="cuarteta" rhyme="abba">
+     <l n="25">E faziendo fin <rhyme label="a">diré</rhyme></l>
+     <l n="26">este <rhyme label="b">cantar</rhyme>:</l>
+     <l n="27">señora, de vos <rhyme label="b">amar</rhyme></l>
+     <l n="28">no <rhyme label="a">partiré</rhyme>.</l>
+</lg>
+
+</div>
+
+   
+
+<!-- MP3-22 -->
+<div xml:id="MP3-22">
+
+<opener> De Gómez Manrrique </opener>
+
+<head> Suplicaçion </head> <!-- Al margen izquierdo -->
+
+<lg n="1" type="novena" rhyme="abbacdccd">
+     <l n="1">     <hi rend="illuminated">N</hi>o, señora, <rhyme label="a">desanpares</rhyme></l>
+     <l n="2">a quien sin duda te <rhyme label="b">quiere</rhyme></l>
+     <l n="3">tanto que mientra <rhyme label="b">biuiere</rhyme></l>
+     <l n="4">fará lo que tú <rhyme label="a">mandares</rhyme>,</l>
+     <l n="5">e sienpre ser <rhyme label="c">jamás</rhyme></l>
+     <l n="6">de ti leal <rhyme label="d">amador</rhyme>,</l>
+     <l n="7">pues si bien miras, <rhyme label="c">verás</rhyme></l>
+     <l n="8">que no nada <rhyme label="c">ganarás</rhyme></l>
+     <l n="9">en perder tal <rhyme label="d">seruidor</rhyme>.</l>
+</lg>
+
+<lg n="2" type="novena" rhyme="abbacdccd">
+     <l n="10">Que si es <rhyme label="a">desanparado</rhyme>,</l>
+     <l n="11">su vida poca <rhyme label="b">será</rhyme>,</l>
+     <l n="12">e si fuere, ser lo <rhyme label="b">ha</rhyme></l>
+     <l n="13">con tal dolor e <rhyme label="a">cuydado</rhyme></l>
+     <l n="14">que le más sano <rhyme label="c">sería</rhyme></l>
+     <l n="15">no beuir con la tal <rhyme label="d">quexa</rhyme>;</l>
+     <l n="16">por ende tu <rhyme label="c">señoría</rhyme></l>
+     <l n="17">desanparar no <rhyme label="c">deuría</rhyme></l>
+     <l n="18">al sieruo que te no <rhyme label="d">dexa</rhyme>.</l>
+</lg>
+     
+<!-- página 33 -->
+<pb xml:id="33r"/> 
+     
+<lg n="3" type="novena" rhyme="abbacdccd">
+     <l n="19">Que quanto tienpo <rhyme label="a">durare</rhyme></l>
+     <l n="20">su trabajoso <rhyme label="b">beuir</rhyme>,</l>
+     <l n="21">te piensa sienpre <rhyme label="b">seruir</rhyme></l>
+     <l n="22">quanto su poder <rhyme label="a">bastare</rhyme>;</l>
+     <l n="23">pues acate tu <rhyme label="c">sentido</rhyme>,</l>
+     <l n="24">no con enojo <rhyme label="d">turbado</rhyme>,</l>
+     <l n="25">e ver ser <rhyme label="c">conoçido</rhyme></l>
+     <l n="26">error a quien ha <rhyme label="c">seruido</rhyme></l>
+     <l n="27">dexarlo <rhyme label="d">desanparado</rhyme>.</l>
+</lg>
+
+<note place="inline"> Ffyn </note>      
+
+<lg n="4" type="cuarteta" rhyme="abba">
+     <l n="28">Digo lo dicho por <rhyme label="a">mí</rhyme>,</l>
+     <l n="29">a quien falleçe <rhyme label="b">ventura</rhyme>,</l>
+     <l n="30">pero no mengua <rhyme label="b">tristura</rhyme></l>
+     <l n="31">después que te <rhyme label="a">conoçí</rhyme>.</l>
+</lg>
+
+</div>
+     
+     
+     
+<!-- MP3-23 -->
+<div xml:id="MP3-23">
+
+<opener> De Gómez Manrrique </opener>    
+
+<head> Cançiones </head> <!-- Al margen izquierdo --> 
+
+
+<lg n="1" type="cuarteta" rhyme="abab"> 
+     <l n="1"><hi rend="illuminated">E</hi>l que arde en biua <rhyme label="a">llama</rhyme>,</l>
+     <l n="2">siruiendo a quien le <rhyme label="b">condena</rhyme>,</l>
+     <l n="3">no puede, según es <rhyme label="a">fama</rhyme>,</l>
+     <l n="4">sentir la pasión <rhyme label="b">agena</rhyme>.</l>
+</lg>
+
+<lg n="2" type="octava" rhyme="abbacdcd">
+     <l n="5">Yo padesco por <rhyme label="a">amores</rhyme></l>
+     <l n="6">tan afurtunadas <rhyme label="b">penas</rhyme></l>
+     <l n="7">que no siento las <rhyme label="b">agenas</rhyme></l>
+     <l n="8">cuytas de los <rhyme label="a">amadores</rhyme>,</l>
+     <l n="9">que qualquiera que bien <rhyme label="c">ama</rhyme></l>
+     <l n="10">a quien su bien <rhyme label="d">desordena</rhyme></l>
+     <l n="11">no puede, según la <rhyme label="c">fama</rhyme>,</l>
+     <l n="12">sentir la pasión <rhyme label="d">agena</rhyme>.</l>
+</lg>
+ 
+</div>
+     
+<!-- MP3-24 -->
+<div xml:id="MP3-24">
+
+<!-- página 34 -->
+<pb xml:id="34r"/> 
+     
+<add place="margin-left">
+Cançión 
+</add>
+  <!-- Al margen izquierdo -->
+
+<lg n="1" type="cuarteta" rhyme="abab">
+     <l n="1">     O muy discreta <rhyme label="a">donzella</rhyme></l>
+     <l n="2">por quien sufro pesar <rhyme label="b">fiero</rhyme>,</l>
+     <l n="3">sabed que vos soys <rhyme label="a">aquella</rhyme></l>
+     <l n="4">por cuyos amores <rhyme label="b">muero</rhyme>.</l>
+</lg>
+
+<lg n="2" type="octava" rhyme="ababcdcd">
+     <l n="5">Fast'aquí que yo <rhyme label="a">porfié</rhyme></l>
+     <l n="6">por no ser <rhyme label="b">enamorado</rhyme>,</l>
+     <l n="7">mas después que vos <rhyme label="a">miré</rhyme>,</l>
+     <l n="8">oluidé lo <rhyme label="b">porfiado</rhyme>,</l>
+     <l n="9">e por vos ver tanto <rhyme label="c">bella</rhyme></l>
+     <l n="10">ámovos avnque no <rhyme label="d">quiero</rhyme>,</l>
+     <l n="11">más que a ninguna <rhyme label="c">donzella</rhyme></l>
+     <l n="12">por cuyos amores <rhyme label="d">muero</rhyme>.</l>
+</lg>
+</div>
+     
+     
+<!-- MP3-25 -->     
+<div xml:id="MP3-25">
+
+<add place="margin-left">
+Cançión 
+</add>
+ <!-- Al margen izquierdo -->
+
+<lg n="1" type="cuarteta" rhyme="abba">
+     <l n="1">     Señoras que muncho <rhyme label="a">amo</rhyme>,</l>
+     <l n="2">plégavos pues soy <rhyme label="b">esento</rhyme>,</l>
+     <l n="3">avnque no por <rhyme label="b">pensamiento</rhyme>,</l>
+     <l n="4">de me buscar algún <rhyme label="a">amo</rhyme>.</l>
+</lg>
+
+<lg n="2" type="octava" rhyme="abbacddc">
+     <l n="5">A qualquier que me <rhyme label="a">quisiere</rhyme>,</l>
+     <l n="6">esto le fago <rhyme label="b">saber</rhyme>:</l>
+     <l n="7">que nunca me ver <rhyme label="b">ser</rhyme></l>
+     <l n="8">ageno mientra <rhyme label="a">biuiere</rhyme>,</l>
+     <l n="9">e si vna vez me <rhyme label="c">llamo</rhyme></l>
+     <l n="10">suyo por su <rhyme label="d">mandamiento</rhyme>,</l>
+     <l n="11">jamás faré <rhyme label="d">mudamiento</rhyme></l>
+     <l n="12">si se no muda mi <rhyme label="c">amo</rhyme>.</l>
+</lg>
+     
+<!-- página 35 -->
+<pb xml:id="35r"/> 
+     
+<lg n="3" type="octava" rhyme="abbacddc">
+     <l n="13">Avnque soy dino de <rhyme label="a">pena</rhyme></l>
+     <l n="14">por fazer tal <rhyme label="b">moçedad</rhyme>,</l>
+     <l n="15">queriendo mi <rhyme label="b">libertad</rhyme></l>
+     <l n="16">poner en fuerte <rhyme label="a">cadena</rhyme>,</l>
+     <l n="17">sintiendo lo qual <rhyme label="c">reclamo</rhyme></l>
+     <l n="18">e digo que no <rhyme label="d">consiento</rhyme>,</l>
+     <l n="19">mas mi loco <rhyme label="d">pensamiento</rhyme></l>
+     <l n="20">quiéreme poner con <rhyme label="c">amo</rhyme>.</l>
+</lg>
+</div>
+
+
+<!-- MP3-26 -->
+<div xml:id="MP3-26">
+
+<add place="margin-left"> 
+Cançión 
+</add>
+   <!-- Al margen izquierdo -->
+
+<lg n="1" type="cuarteta" rhyme="abba">
+     <l n="1">     Si los fines no <rhyme label="a">miré</rhyme>,</l>
+     <l n="2">pensando valer con <rhyme label="b">vos</rhyme>,</l>
+     <l n="3">sufra mis males, par <rhyme label="b">Dios</rhyme>,</l>
+     <l n="4">pues los yo triste <rhyme label="a">busqué</rhyme>.</l>
+</lg>
+
+<lg n="2" type="octava" rhyme="abbacddc">
+     <l n="5">Busqué para mi <rhyme label="a">tormento</rhyme></l>
+     <l n="6">en ser de vos <rhyme label="b">amador</rhyme>,</l>
+     <l n="7">mas con todo mi <rhyme label="b">dolor</rhyme></l>
+     <l n="8">no sin duda m'<rhyme label="a">arrepiento</rhyme>,</l>
+     <l n="9">que más contento <rhyme label="c">seré</rhyme></l>
+     <l n="10">en ser penado por <rhyme label="d">vos</rhyme></l>
+     <l n="11">que bien amado, par <rhyme label="d">Dios</rhyme>,</l>
+     <l n="12">de quantas vi nin <rhyme label="c">veré</rhyme>.</l>
+</lg>
+</div>
+
+
+<!-- MP3-27 - página 36 -->
+<pb xml:id="36r"/> 
+     
+<div xml:id="MP3-27">
+
+<add place="margin-left">
+Cançión 
+</add>
+ <!-- Al margen izquierdo -->
+
+<lg n="1" type="cuarteta" rhyme="abab">
+     <l n="1">     Dexadme mirar a <rhyme label="a">quien</rhyme></l>
+     <l n="2">me faze <rhyme label="b">mal</rhyme></l>
+     <l n="3">e nunca me fizo <rhyme label="a">bien</rhyme></l>
+     <l n="4">nin <rhyme label="b">comunal</rhyme>.</l>
+</lg>
+
+<lg n="2" type="octava" rhyme="abbacdcd">
+     <l n="5">Dexad fartar a mis <rhyme label="a">ojos</rhyme></l>
+     <l n="6">de mirar la <rhyme label="b">fermosura</rhyme></l>
+     <l n="7">que con tan poca <rhyme label="b">mesura</rhyme></l>
+     <l n="8">me causa tantos <rhyme label="a">enojos</rhyme>,</l>
+     <l n="9">que morir a mí <rhyme label="c">conuien</rhyme></l>
+     <l n="10">si me no <rhyme label="d">val</rhyme></l>
+     <l n="11">la que nin me faze <rhyme label="c">bien</rhyme></l>
+     <l n="12">nin <rhyme label="d">comunal</rhyme>.</l>
+</lg>
+</div>
+
+
+<!-- MP3-28 -->
+<div xml:id="MP3-28">
+     
+<add place="margin-left"> 
+Cançión
+</add>
+  <!-- Al margen izquierdo -->
+
+<lg n="1" type="cuarteta" rhyme="abba">
+     <l n="1">     Yo parto con gran <rhyme label="a">querella</rhyme>;</l>
+     <l n="2">¿de quién? por çierto no <rhyme label="b">sé</rhyme>;</l>
+     <l n="3">de mí, porque vos <rhyme label="b">amé</rhyme></l>
+     <l n="4">si de vos, gentil <rhyme label="a">donzella</rhyme>.</l>
+</lg>
+
+<lg n="2" type="octava" rhyme="ababcddc">
+     <l n="5">Que si yo no vos <rhyme label="a">amara</rhyme></l>
+     <l n="6">e tanto bien no <rhyme label="b">quisiera</rhyme>,</l>
+     <l n="7">nin vuestro mal me <rhyme label="a">penara</rhyme></l>
+     <l n="8">nin vuestro bien me <rhyme label="b">pluguiera</rhyme>;</l>
+     <l n="9">avnque vos fustes tan <rhyme label="c">bella</rhyme></l>
+     <l n="10">qu'el amar forçado <rhyme label="d">fue</rhyme>,</l>
+     <l n="11">así que me <rhyme label="d">quexare</rhyme>,</l>
+     <l n="12">de vos e de mí, <rhyme label="c">donzella</rhyme>.</l>
+</lg>
+
+<!-- página 37 -->
+<pb xml:id="37r"/> 
+     
+<lg n="3" type="octava" rhyme="ababcddc">
+     <l n="13">Quexarme de mí e de <rhyme label="a">vos</rhyme></l>
+     <l n="14">e tanbién de mi <rhyme label="b">ventura</rhyme></l>
+     <l n="15">e, si osase, de <rhyme label="a">Dios</rhyme>,</l>
+     <l n="16">que tal vos dio <rhyme label="b">fermosura</rhyme></l>
+     <l n="17">para que fuesse por <rhyme label="c">ella</rhyme></l>
+     <l n="18">penado como <rhyme label="d">seré</rhyme>,</l>
+     <l n="19">de todos me <rhyme label="d">quexaré</rhyme>,</l>
+     <l n="20">por vuestra causa, <rhyme label="c">donzella</rhyme>.</l>
+</lg>
+</div>    
+  
+  
+<!-- MP3-29 -->
+<div xml:id="MP3-29">
+
+<add place="margin-left">
+Cançión
+</add>
+ <!-- Al margen izquierdo -->
+
+<lg n="1" type="cuarteta" rhyme="abba">
+     <l n="1">     Esperança de <rhyme label="a">venir</rhyme></l>
+     <l n="2">alegre, si Dios <rhyme label="b">quisiere</rhyme>,</l>
+     <l n="3">causa que no <rhyme label="b">desespere</rhyme></l>
+     <l n="4">con el dolor del <rhyme label="a">partir</rhyme>.</l>
+</lg>
+
+<lg n="2" type="octava" rhyme="ababcddc">
+     <l n="5">Que si me no <rhyme label="a">rrecordase</rhyme></l>
+     <l n="6">de la gozosa <rhyme label="b">venida</rhyme>,</l>
+     <l n="7">no dudo que m'<rhyme label="a">acabase</rhyme></l>
+     <l n="8">el pesar de la <rhyme label="b">partida</rhyme>;</l>
+     <l n="9">mas el plazer que <rhyme label="c">sentir</rhyme></l>
+     <l n="10">atiendo quando <rhyme label="d">boluiere</rhyme></l>
+     <l n="11">causa que no <rhyme label="d">desespere</rhyme></l>
+     <l n="12">con el dolor del <rhyme label="c">partir</rhyme>.</l>
+</lg>
+</div>  
+
+
+<!-- MP3-30 -->
+<div xml:id="MP3-30">
+     
+<add place="margin-left">
+Cançión 
+</add>
+   <!-- Al margen izquierdo -->
+
+<lg n="1" type="cuarteta" rhyme="abab">
+     <l n="1">     Amor me manda <rhyme label="a">dezir</rhyme>,</l>
+     <l n="2">temor me faze <rhyme label="b">callar</rhyme>,</l>
+     <l n="3">e con este <rhyme label="a">debatir</rhyme></l>
+     <l n="4">nunca cesa mi <rhyme label="b">penar</rhyme>.</l>
+</lg>
+
+<!-- página 38 -->
+<pb xml:id="38r"/> 
+     
+<lg n="2" type="octava" rhyme="ababcdcd">
+     <l n="5">Sienpre creçen mis <rhyme label="a">tormentos</rhyme></l>
+     <l n="6">con la dicha <rhyme label="b">diuisión</rhyme>,</l>
+     <l n="7">que contrarios <rhyme label="a">pensamientos</rhyme></l>
+     <l n="8">afligen el <rhyme label="b">coraçón</rhyme>;</l>
+     <l n="9">no vos oso <rhyme label="c">rrequerir</rhyme></l>
+     <l n="10">con temor del <rhyme label="d">rreplicar</rhyme>,</l>
+     <l n="11">e con este <rhyme label="c">debatir</rhyme></l>
+     <l n="12">nunca cesa mi <rhyme label="d">penar</rhyme>.</l>
+</lg>
+
+<lg n="3" type="octava" rhyme="ababcdcd">
+     <l n="13">Con el dolor <rhyme label="a">ynumano</rhyme></l>
+     <l n="14">que padezco sin <rhyme label="b">infinta</rhyme>,</l>
+     <l n="15">mil vezes toma mi <rhyme label="a">mano</rhyme></l>
+     <l n="16">la pluma con negra <rhyme label="b">tinta</rhyme></l>
+     <l n="17">para mi mal <rhyme label="c">escreuir</rhyme>,</l>
+     <l n="18">mas no osa <rhyme label="d">començar</rhyme></l>
+     <l n="19">e con este <rhyme label="c">debatir</rhyme></l>
+     <l n="20">sienpre creçe mi <rhyme label="d">penar</rhyme>.</l>
+</lg>
+</div>  
+
+
+<!-- MP3-31 -->
+<div xml:id="MP3-31">
+     
+<add place="margin-left"> 
+Cançión 
+</add>
+ <!-- Al margen izquierdo -->
+
+<lg n="1" type="cuarteta" rhyme="abba">
+     <l n="1">     Con la belleza <rhyme label="a">prendés</rhyme>,</l>
+     <l n="2">donzella, quantos <rhyme label="b">miráys</rhyme>,</l>
+     <l n="3">e con la fonda <rhyme label="b">matáys</rhyme></l>
+     <l n="4">e ferís los que <rhyme label="a">querés</rhyme>.</l>
+</lg>
+     
+<!-- página 39 -->
+<pb xml:id="39r"/>   
+     
+<lg n="2" type="octava" rhyme="abbacddc">
+     <l n="5">Nunca vi tal <rhyme label="a">desmesura</rhyme></l>
+     <l n="6">prender los onbres <rhyme label="b">seguros</rhyme></l>
+     <l n="7">e ferir desde los <rhyme label="b">muros</rhyme></l>
+     <l n="8">con fonda de <rhyme label="a">fermosura</rhyme>;</l>
+     <l n="9">no puede ningún <rhyme label="c">arnés</rhyme></l>
+     <l n="10">defensar al que <rhyme label="d">miráys</rhyme>,</l>
+     <l n="11">pues que mirando <rhyme label="d">matáys</rhyme></l>
+     <l n="12">e ferís los que <rhyme label="c">querés</rhyme>.</l>
+</lg>
+</div>  
+
+
+<!-- MP3-32 -->
+<div xml:id="MP3-32">
+
+<add place="margin-left"> 
+Cançión 
+</add>
+   <!-- Al margen izquierdo -->
+
+<lg n="1" type="cuarteta" rhyme="abab">
+     <l n="1">     Con la beldad me <rhyme label="a">prendistes</rhyme>,</l>
+     <l n="2">con la graçia me <rhyme label="b">rrobastes</rhyme>,</l>
+     <l n="3">con la bondad me <rhyme label="a">feristes</rhyme></l>
+     <l n="4">al punto que me <rhyme label="b">mirastes</rhyme>.</l>
+</lg>
+
+<lg n="2" type="octava" rhyme="ababcdcd">
+     <l n="5">De la prisión no <rhyme label="a">rreçelo</rhyme>,</l>
+     <l n="6">que de mi grado <rhyme label="b">será</rhyme>,</l>
+     <l n="7">nin por el rrobo me <rhyme label="a">duelo</rhyme>,</l>
+     <l n="8">pues en tal lugar <rhyme label="b">está</rhyme>;</l>
+     <l n="9">mas del golpe que me <rhyme label="c">distes</rhyme></l>
+     <l n="10">con la bondad que <rhyme label="d">mostrastes</rhyme>,</l>
+     <l n="11">el más triste de los <rhyme label="c">tristes</rhyme></l>
+     <l n="12">para sienpre me <rhyme label="d">tornastes</rhyme>.</l>
+</lg>
+</div>
+
+
+<!-- MP3-33 -->
+<div xml:id="MP3-33">
+     
+<add place="margin-left"> 
+Cançión 
+</add>
+   <!-- Al margen izquierdo -->
+
+<lg n="1" type="cuarteta" rhyme="abba">
+     <l n="1">     Vuestros ojos me <rhyme label="a">prendieron</rhyme></l>
+     <l n="2">al punto que me <rhyme label="b">miraron</rhyme>,</l>
+     <l n="3">y los míos me <rhyme label="b">mataron</rhyme></l>
+     <l n="4">en la ora que vos <rhyme label="a">vieron</rhyme>.</l>
+</lg>
+
+<!-- página 40 -->
+<pb xml:id="40r"/>    
+     
+<lg n="2" type="octava" rhyme="abbacddc">
+     <l n="5">Viéronvos tanto <rhyme label="a">fermosa</rhyme>,</l>
+     <l n="6">viéronvos tanto <rhyme label="b">polida</rhyme>,</l>
+     <l n="7">que se trasformó mi <rhyme label="b">vida</rhyme></l>
+     <l n="8">en vna muerte <rhyme label="a">penosa</rhyme>;</l>
+     <l n="9">no sé quáles d'ellos <rhyme label="c">fueron</rhyme></l>
+     <l n="10">los que tal mal me <rhyme label="d">buscaron</rhyme>,</l>
+     <l n="11">mas sé que poco <rhyme label="d">ganaron</rhyme></l>
+     <l n="12">aquellos que lo <rhyme label="c">fizieron</rhyme>.</l>
+</lg>
+
+<lg n="3" type="octava" rhyme="abbacddc">
+     <l n="13">Que los míos con <rhyme label="a">dolor</rhyme></l>
+     <l n="14">llorando se <rhyme label="b">çegarán</rhyme>,</l>
+     <l n="15">y los vuestros <rhyme label="b">perderán</rhyme></l>
+     <l n="16">vn muy leal <rhyme label="a">seruidor</rhyme>;</l>
+     <l n="17">basta que todos <rhyme label="c">perdieron</rhyme>,</l>
+     <l n="18">aquellos que más <rhyme label="d">ganaron</rhyme>,</l>
+     <l n="19">los vuestros que me <rhyme label="d">miraron</rhyme></l>
+     <l n="20">y los míos que vos <rhyme label="c">vieron</rhyme>.</l>
+</lg>
+</div>  
+
+
+<!-- MP3-34 -->
+<div xml:id="MP3-34">
+
+<add place="margin-left"> 
+Cançión 
+</add>
+  <!-- Al margen izquierdo -->
+
+<lg n="1" type="cuarteta" rhyme="abba">
+     <l n="1">Sabe Dios quánto <rhyme label="a">porfío</rhyme></l>
+     <l n="2">por vos poder <rhyme label="b">desamar</rhyme>,</l>
+     <l n="3">mas no me puedo <rhyme label="b">tirar</rhyme></l>
+     <l n="4">de ser más vuestro que <rhyme label="a">mío</rhyme>.</l>
+</lg>
+
+<!-- página 41 -->
+<pb xml:id="41r"/> 
+     
+<lg n="2" type="octava" rhyme="abbacddc">
+     <l n="5">Por vos fallar tan <rhyme label="a">ingrata</rhyme></l>
+     <l n="6">y contra de mi <rhyme label="b">plazer</rhyme>,</l>
+     <l n="7">querría non vos <rhyme label="b">querer</rhyme>,</l>
+     <l n="8">pues esto solo me <rhyme label="a">mata</rhyme>;</l>
+     <l n="9">pero soy torrnado <rhyme label="c">rrío</rhyme>,</l>
+     <l n="10">que no me puedo <rhyme label="d">torrnar</rhyme>,</l>
+     <l n="11">avnque quiero, nin <rhyme label="d">tirar</rhyme></l>
+     <l n="12">de ser vuestro más que <rhyme label="c">mío</rhyme>.</l>
+</lg>
+</div>
+
+
+<!-- MP3-35 -->
+<div xml:id="MP3-35">
+
+<add place="margin-left"> 
+Cançión 
+</add>
+  <!-- Al margen izquierdo -->
+
+<lg n="1" type="cuarteta" rhyme="abab">
+     <l n="1">     De guisa vuestro <rhyme label="a">deseo</rhyme></l>
+     <l n="2">m'<rhyme label="b">atormenta</rhyme></l>
+     <l n="3">que nada de quanto <rhyme label="a">veo</rhyme></l>
+     <l n="4">me <rhyme label="b">contenta</rhyme>.</l>
+</lg>
+
+<lg n="2" type="octava" rhyme="abbacdcd">
+     <l n="5">Dezienbre pareçe <rhyme label="a">mayo</rhyme></l>
+     <l n="6">e noches los claros <rhyme label="b">días</rhyme>,</l>
+     <l n="7">is mayores <rhyme label="b">alegrías</rhyme></l>
+     <l n="8">pasan más rrezias que <rhyme label="a">rrayo</rhyme>;</l>
+     <l n="9">e si mugeres <rhyme label="c">oteo</rhyme></l>
+     <l n="10">de gran <rhyme label="d">cuenta</rhyme>,</l>
+     <l n="11">ninguna de quantas <rhyme label="c">veo</rhyme></l>
+     <l n="12">me <rhyme label="d">contenta</rhyme>.</l>
+</lg>
+</div>
+
+
+<!-- MP3-36 -->
+<div xml:id="MP3-36">
+
+<add place="margin-left"> 
+Cançión
+</add>
+  <!-- Al margen izquierdo -->
+
+<lg n="1" type="cuarteta" rhyme="abab">
+     <l n="1">     Si no me vençe <rhyme label="a">pasión</rhyme>,</l>
+     <l n="2">nunca vi tanta <rhyme label="b">beldad</rhyme></l>
+     <l n="3">nin tamaña <rhyme label="a">descriçión</rhyme></l>
+     <l n="4">en tan jouenil <rhyme label="b">hedad</rhyme>.</l>
+</lg>
+
+<!-- página 42 -->
+<pb xml:id="42r"/>     
+     
+<lg n="2" type="octava" rhyme="abbacdcd">
+     <l n="5">La fauorable <rhyme label="a">fortuna</rhyme></l>
+     <l n="6">vos fizo muy <rhyme label="b">generosa</rhyme>,</l>
+     <l n="7">entre las bellas <rhyme label="b">fermosa</rhyme></l>
+     <l n="8">e de las mejores <rhyme label="a">vna</rhyme>;</l>
+     <l n="9">y diovos en <rhyme label="c">perfeçión</rhyme></l>
+     <l n="10">estrema <rhyme label="d">graçiosidad</rhyme></l>
+     <l n="11">e perfeta <rhyme label="c">discriçión</rhyme></l>
+     <l n="12">en la jouenil <rhyme label="d">hedad</rhyme>.</l>
+</lg>
+
+<lg n="3" type="octava" rhyme="ababcdcd">
+     <l n="13">No vos loo por <rhyme label="a">amores</rhyme>,</l>
+     <l n="14">que la ley no lo <rhyme label="b">consiente</rhyme>,</l>
+     <l n="15">mas porque vuestros <rhyme label="a">valores</rhyme></l>
+     <l n="16">son inmensos, <rhyme label="b">çiertamente</rhyme>;</l>
+     <l n="17">tanto, que dan <rhyme label="c">ocasión</rhyme>,</l>
+     <l n="18">fablando con vos <rhyme label="d">verdad</rhyme>,</l>
+     <l n="19">a no poder la <rhyme label="c">rrazón</rhyme></l>
+     <l n="20">contrastar la <rhyme label="d">voluntad</rhyme>.</l>
+</lg>
+</div>
+     
+     
+<!-- MP3-37 -->
+<div xml:id="MP3-37">
+
+<add place="margin-left">  
+Copla de Diego de <lb/>
+Benauides a vna <lb/>
+dama
+</add>
+  <!-- Al margen izquierdo -->
+
+     
+<lg n="1" type="octava" rhyme="abbacdcd">
+     <l n="1">     No partir, mas <rhyme label="a">apartar</rhyme></l>
+     <l n="2">me quiere de vos, <rhyme label="b">donzella</rhyme>,</l>
+     <l n="3">fortuna, que mi <rhyme label="b">querella</rhyme></l>
+     <l n="4">ama sienpre <rhyme label="a">acreçentar</rhyme>;</l>
+     <l n="5">mas por que çierta <rhyme label="c">seáys</rhyme></l>
+     <l n="6">que sienpre vuestro <rhyme label="d">seré</rhyme>,</l>
+     <l n="7">avnque ageno me <rhyme label="c">llamáys</rhyme>,</l>
+     <l n="8">esta cançión <rhyme label="d">cantaré</rhyme>.</l>
+</lg>
+
+<!-- página 43 -->
+<pb xml:id="43r"/> 
+     
+<lg n="2" type="cuarteta" rhyme="abab">
+     <l n="9">Aunque parta, <rhyme label="a">quedaré</rhyme>,</l>
+     <l n="10">señora, do vos <rhyme label="b">quedáys</rhyme>,</l>
+     <l n="11">pues después que vos <rhyme label="a">miré</rhyme>,</l>
+     <l n="12">vos amo más que <rhyme label="b">pensáys</rhyme>.</l>
+</lg>
+</div>
+
+   
+<!-- MP3-38 -->
+<div xml:id="MP3-38">
+
+<add place="margin-left">
+Rrespuesta por ella <lb/>
+de Gómez Manrrique 
+</add>
+  <!-- Al margen izquierdo -->
+     
+<lg n="1" type="octava" rhyme="abbacdcd">
+     <l n="1"><hi rend="illuminated">Y</hi>o pensé de <rhyme label="a">rreplicar</rhyme></l>
+     <l n="2">a vuestra copla muy <rhyme label="b">bella</rhyme>,</l>
+     <l n="3">primo señor, por <rhyme label="b">aquella</rhyme></l>
+     <l n="4">a quien tengo de <rhyme label="a">guardar</rhyme>;</l>
+     <l n="5">e si no vos <rhyme label="c">enojáys</rhyme></l>
+     <l n="6">por lo que <rhyme label="d">rresponderé</rhyme>,</l>
+     <l n="7">a la cançión que <rhyme label="c">cantáys</rhyme></l>
+     <l n="8">esta rrespuesta <rhyme label="d">daré</rhyme>.</l>
+</lg>
+                                                                                                    
+<lg n="2" type="cuarteta" rhyme="abab">
+     <l n="9">Si partís yo <rhyme label="a">juraré</rhyme></l>
+     <l n="10">que todo entero's <rhyme label="b">leuáys</rhyme></l>
+     <l n="11">e que al yo <rhyme label="a">creeré</rhyme>,</l>
+     <l n="12">amigo, no lo <rhyme label="b">creáys</rhyme>.</l>
+</lg> 
+</div>    
+
+     
+<!-- MP3-39 -->
+<div xml:id="MP3-39">
+    
+<opener> De Gómez Manrrique </opener>
+
+<head> Estrenas a doña Juana de Mendoça, su muger </head>
+     
+<!-- página 44 -->
+<pb xml:id="44r"/> 
+     
+<lg n="1" type="diezVersos" rhyme="ababccdddc">
+     <l n="1"><hi rend="illuminated">A</hi>mada tanto de <rhyme label="a">mí</rhyme></l>
+     <l n="2">e más que mi <rhyme label="b">saluaçión</rhyme>,</l>
+     <l n="3">más por la virtud de <rhyme label="a">ti</rhyme></l>
+     <l n="4">que por ninguna <rhyme label="b">pasión</rhyme>,</l>
+     <l n="5">la mejor de las más <rhyme label="c">buenas</rhyme>,</l>
+     <l n="6">rrecibe estas <rhyme label="c">estrenas</rhyme></l>
+     <l n="7">que te <rhyme label="d">da</rhyme></l>
+     <l n="8">quien nunca jamás <rhyme label="d">querrá</rhyme></l>
+     <l n="9">tanto <rhyme label="d">ya</rhyme></l>
+     <l n="10">ninguna de las <rhyme label="c">agenas</rhyme>.</l>
+</lg>
+        
+<add place="margin-left">   
+Cançión 
+</add>
+  <!-- Al margen izquierdo -->
+
+<lg n="2" type="cuarteta" rhyme="abab">
+     <l n="11">     Vos seréys, dama <rhyme label="a">sentida</rhyme></l>
+     <l n="12">e la más bella que <rhyme label="b">vi</rhyme>,</l>
+     <l n="13">avnque no queráys, <rhyme label="a">querida</rhyme></l>
+     <l n="14">de muchos e más de <rhyme label="b">mí</rhyme>.</l>
+</lg>
+      
+<lg n="3" type="octava" rhyme="abbacdcd">      
+     <l n="15">En vuestro será <rhyme label="a">poder</rhyme></l>
+     <l n="16">nunca ser <rhyme label="b">enamorada</rhyme>,</l>
+     <l n="17">mas no ser o ser <rhyme label="b">amada</rhyme></l>
+     <l n="18">es en ageno <rhyme label="a">querer</rhyme>;</l>
+     <l n="19">vuestra beldad <rhyme label="c">escogida</rhyme></l>
+     <l n="20">causa que seáys <rhyme label="d">así</rhyme>,</l>
+     <l n="21">no queriendo, bien <rhyme label="c">querida</rhyme></l>
+     <l n="22">de munchos e más de <rhyme label="d">mí</rhyme>.</l>
+</lg>
+
+</div>
+
+
+<div>
+     
+<note place="margin-right"> Coplas que fizo Pero Torrellas contra las damas, contradichas por Gómez Manrrique </note>     
+     
+</div>
+
+
+
+</body>
+
+
+</text>
+
+
+</TEI>
