@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+
+
+<!-- El "Cancionero digital de Gómez Manrique", 
+     proyecto desarrollado por Andrea Iantorno (mail:andrea.iantorno@gmail.com - Google+:https://plus.google.com/u/0/+AndreaIantorno/about) -->  
+
+
+<!-- esquema creado utilizando TEI Roma -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+
+<teiHeader>
+<fileDesc>
+
+<titleStmt>
+<title>Cancionero Gomez Manrique</title>
+<author>Andrea Iantorno</author>
+</titleStmt>
+
+<publicationStmt>
+<p>for use by whoever wants it</p>
+</publicationStmt>
+
+<notesStmt>
+<note type="ns">http://www.example.org/ns/nonTEI</note>
+</notesStmt>
+
+<sourceDesc>
+<p>created on Wednesday 08th April 2015 11:25:41 AM</p>
+</sourceDesc>
+
+</fileDesc>
+</teiHeader>
+
+
+<text>
+    
+    
+<front>
+<divGen type="toc"/>
+</front>
+
+
+<body>
+
+<p>transcr, figures, msdescription, verse</p>
+
+<schemaSpec ident="esquema_cancionero_manrique" docLang="en" prefix="tei_" xml:lang="en">
+
+<moduleRef key="tei" except=""/>
+
+<moduleRef key="transcr" except=""/>
+
+<moduleRef key="figures" except=""/>
+
+<moduleRef key="msdescription" except=""/>
+
+<moduleRef key="verse" except=""/>
+
+</schemaSpec>
+
+
+</body>
+
+
+</text>
+    
+    
+</TEI>
